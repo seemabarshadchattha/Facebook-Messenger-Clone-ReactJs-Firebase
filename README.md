@@ -10,4 +10,5 @@
 https://facebook-messenger-clone-1f7ae.web.app/
 
 ## Facebook Messenger Clone
-<img width="1439" alt="Screen Shot 2021-03-13 at 7 38 48 PM" src="https://user-images.githubusercontent.com/12670383/111035694-f9db5980-8434-11eb-93e0-988d19c2671c.png">
+<img width="1440" alt="Screen Shot 2021-03-13 at 10 30 05 PM" src="https://user-images.githubusercontent.com/12670383/111040287-bd672800-844b-11eb-8b38-edd9916b9ecc.png">
+
